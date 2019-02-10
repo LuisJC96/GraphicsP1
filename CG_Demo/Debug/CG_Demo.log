@@ -1,6 +1,0 @@
-﻿  Wheel.cpp
-c:\users\luisj\desktop\8vo semestre\gráficas computacionales\transformations\cgcourse\cg_demo\cg_demo\source\wheel.cpp(44): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
-  CG_Demo.cpp
-  Car.cpp
-  Generando código...
-  CG_Demo.vcxproj -> C:\Users\luisj\Desktop\8vo Semestre\Gráficas Computacionales\Transformations\cgcourse\CG_Demo\Debug\CG_Demo.exe
